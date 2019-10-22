@@ -1,7 +1,7 @@
 # NewsGrid Website
 
 ## Overview
-A basic front end example of CSS3 Grid formatting on a Sports News website that displays the lastest articles. 
+A basic front end example of CSS3 Grid formatting on a Sports News website that displays the latest articles. 
 
 **Note:** Constructed using the guidance of the **Udemy** coursed titled, **Modern HTML & CSS** by **Brad Traversy**
 
@@ -13,3 +13,5 @@ A basic front end example of CSS3 Grid formatting on a Sports News website that 
   * Re-usable utility classes for repetive styling
   * CSS Variables for simple color and size re-formatting
   * Media Queries for responsive design across multiple sized viewports
+  
+ ###[Check out the site!](https://sweetmike.github.io/NewsGrid-Website/)
