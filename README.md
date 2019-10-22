@@ -14,4 +14,4 @@ A basic front end example of CSS3 Grid formatting on a Sports News website that 
   * CSS Variables for simple color and size re-formatting
   * Media Queries for responsive design across multiple sized viewports
   
- ###[Check out the site!](https://sweetmike.github.io/NewsGrid-Website/)
+ ### [Check out the site!](https://sweetmike.github.io/NewsGrid-Website/)
